@@ -3,7 +3,7 @@
 Plugin Name: Align RSS Images
 Plugin URI: http://w-shadow.com/blog/2008/12/31/aligning-images-in-rss-feeds/
 Description: Makes image alignment work in RSS feeds.  
-Version: 1.1
+Version: 1.2
 Author: Janis Elsts
 Author URI: http://w-shadow.com/blog/
 */
