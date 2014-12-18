@@ -2,8 +2,8 @@
 Contributors: whiteshadow
 Tags: rss, feed, images, alignment, html
 Requires at least: 2.6
-Tested up to: 3.9-alpha
-Stable tag: 1.3
+Tested up to: 4.2-alpha
+Stable tag: 1.3.1
 
 Scans your RSS feed and ensures that every image has the correct alignment and margin settings.
 
@@ -32,6 +32,10 @@ This is usually due to caching. If you serve your feed via Feedburner or a simil
 Probably not. In my experience the modified feed looks fine in Google Reader, and the W3C Feed Validator also says it's valid. 
 
 == Changelog ==
+
+= 1.3.1 =
+* Tested with WP 4.2-alpha.
+* Note that while the plugin still works, some RSS readers no longer fully support inline CSS. Also, some readers don't recognize the `<figure>` tags used by some modern themes.
 
 = 1.3 =
 * Tested with WP 3.9-alpha.
