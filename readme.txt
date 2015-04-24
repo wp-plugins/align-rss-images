@@ -2,7 +2,7 @@
 Contributors: whiteshadow
 Tags: rss, feed, images, alignment, html
 Requires at least: 2.6
-Tested up to: 4.2-alpha
+Tested up to: 4.2
 Stable tag: 1.3.1
 
 Scans your RSS feed and ensures that every image has the correct alignment and margin settings.
